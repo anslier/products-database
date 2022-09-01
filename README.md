@@ -27,7 +27,7 @@ Landing Page
 ![image](https://github.com/anslier/products-database/blob/main/Screenshots/hero.png)
 
 Products Listing Page with all CRUD functionalities
-![image](https://github.com/anslier/products-database/blob/main/Screenshots/add-producct.png)
+![image](https://github.com/anslier/products-database/blob/main/Screenshots/table.png)
 
 Adding Product
 ![image](https://github.com/anslier/products-database/blob/main/Screenshots/add-producct.png)
