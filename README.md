@@ -4,8 +4,8 @@
 ## How to run
 
 1. Install and run MariaDB and make sure to create database with name "productdb" and collation "utf8mb4_unicode_ci"
-2. Run the backend spring boot application inside productsDatabase folder with IDE of choice
-3. Run the frontend inside folder product-database-frontend with npm start command
+2. Run the backend Spring Boot application inside productsDatabase folder with IDE of choice, http://localhost:8080/api/
+3. Run the ReactJS frontend inside folder product-database-frontend with npm start command, http://localhost:3000/
 
 ## REST API Documentation
 Below are REST API path for this project:
