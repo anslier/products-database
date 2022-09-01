@@ -7,20 +7,6 @@
 2. Run the backend spring boot application inside productsDatabase folder with IDE of choice
 3. Run the frontend inside folder product-database-frontend with npm start command
 
-## Screenshots
-
-Landing Page
-
-Products Listing Page with all CRUD functionalities
-
-Adding Product
-
-Editing Product
-
-SwaggerUI OpenAPI definition
-
-OpenAPI definition
-
 ## REST API Documentation
 Below are REST API path for this project:
 
@@ -28,6 +14,33 @@ Below are REST API path for this project:
 * View SwaggerUI OpenAPI definition here: http://localhost:8080/swagger-ui/index.html
 * View OpenAPI definition here: http://localhost:8080/v3/api-docs
 * Download OpenAPI definition in yaml file here: http://localhost:8080/v3/api-docs.yaml
+
+## Technologies used
+
+* Spring Boot https://spring.io/
+* ReactJS https://reactjs.org/
+* MUI https://mui.com/
+
+## Screenshots
+
+Landing Page
+![image](https://github.com/anslier/products-database/blob/main/Screenshots/hero.png)
+
+Products Listing Page with all CRUD functionalities
+![image](https://github.com/anslier/products-database/blob/main/Screenshots/add-producct.png)
+
+Adding Product
+![image](https://github.com/anslier/products-database/blob/main/Screenshots/add-producct.png)
+
+Editing Product
+![image](https://github.com/anslier/products-database/blob/main/Screenshots/edit-product.png)
+
+SwaggerUI OpenAPI definition
+![image](https://github.com/anslier/products-database/blob/main/Screenshots/openapi-definition-swaggerui.png)
+
+OpenAPI definition
+![image](https://github.com/anslier/products-database/blob/main/Screenshots/openapi-definition.png)
+
 
 ## Reference Documentation
 For further reference, please consider the following sections:
